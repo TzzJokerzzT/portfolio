@@ -1,0 +1,10 @@
+.proyect-header {
+  margin-bottom: 3rem;
+  font-size: 6rem;
+}
+
+@media (max-width: 520px) {
+  .proyect-header {
+    font-size: 4rem;
+  }
+}
