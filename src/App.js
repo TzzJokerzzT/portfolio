@@ -4,7 +4,7 @@ import Header from "./components/Header/Header";
 import Contact from "./components/Home/Contact";
 import Home from "./components/Home/Home";
 import Projects from "./components/Home/Proyects";
-import Tecnologies from "./components/Home/Tecnologies";
+import Technologies from "./components/Home/Tecnologies";
 
 const App = () => {
   return (
@@ -12,7 +12,7 @@ const App = () => {
       <Header />
       <Home />
       <Projects />
-      <Tecnologies />
+      <Technologies />
       <Contact />
       <ButtonTop />
     </div>

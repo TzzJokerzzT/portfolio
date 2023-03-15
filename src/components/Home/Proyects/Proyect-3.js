@@ -9,7 +9,7 @@ const Proyect3 = () => {
       <div className="card-body">
         <h5 className="card-title">Chuck Norris App</h5>
         <p className="card-text text-start">
-          <li>Tecnologies: React, CSS</li>
+          <li>Technologies: React, CSS</li>
           <li>State managment: useState, useEffect</li>
         </p>
         <a

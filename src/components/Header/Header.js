@@ -30,7 +30,7 @@ const Header = () => {
                 duration={500}
                 className="nav-link"
               >
-                Home
+                <b>Home</b>
               </Link>
             </li>
             <li className="nav-item">
@@ -42,7 +42,7 @@ const Header = () => {
                 duration={500}
                 className="nav-link"
               >
-                Projects
+                <b>Projects</b>
               </Link>
             </li>
             <li className="nav-item">
@@ -54,7 +54,7 @@ const Header = () => {
                 duration={500}
                 className="nav-link"
               >
-                Tecnologies
+                <b>Tecnologies</b>
               </Link>
             </li>
             <li className="nav-item">
@@ -66,7 +66,7 @@ const Header = () => {
                 duration={500}
                 className="nav-link"
               >
-                Contact
+                <b>Contact</b>
               </Link>
             </li>
           </ul>

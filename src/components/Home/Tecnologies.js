@@ -1,9 +1,9 @@
 import "./TecnologiesMain.css";
 
-const Tecnologies = () => {
+const Technologies = () => {
   return (
     <div id="tecnologies">
-      <h1 className="tecnologies-header">Tecnologies</h1>
+      <h1 className="tecnologies-header">Technologies</h1>
       <div className="container">
         <div className="row">
           <div className="col-12 d-flex justify-content-start">
@@ -23,7 +23,7 @@ const Tecnologies = () => {
             </a>
             <a
               className="resume-style"
-              href="https://acrobat.adobe.com/link/file/?uri=urn%3Aaaid%3Asc%3AUS%3A300d4d66-f1cc-49d7-81cf-421f4e60d435&filetype=application%2Fpdf&size=60430&viewer%21megaVerb=group-discover"
+              href="https://www.dropbox.com/s/54eyl0uis3mwz0s/CC%20Alexis%20Buelvas.pdf?dl=0"
             >
               <p>Download my resume</p>
             </a>
@@ -72,4 +72,4 @@ const Tecnologies = () => {
   );
 };
 
-export default Tecnologies;
+export default Technologies;

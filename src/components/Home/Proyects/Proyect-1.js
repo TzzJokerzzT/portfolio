@@ -11,7 +11,7 @@ const Proyect1 = () => {
       <div className="card-body">
         <h5 className="card-title">Rick & Morty App</h5>
         <p className="card-text text-start">
-          <li>Tecnologies: React, Bootstrap, React-Component.</li>
+          <li>Technologies: React, Bootstrap, React-Component.</li>
           <li>State managment: React-Context</li>
         </p>
         <a

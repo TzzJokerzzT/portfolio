@@ -10,7 +10,7 @@ const Proyect2 = () => {
       <div className="card-body">
         <h5 className="card-title">ToDo App</h5>
         <p className="card-text text-start">
-          <li>Tecnologies: React, CSS</li>
+          <li>Technologies: React, CSS</li>
           <li>State managment: useState, useEffect</li>
         </p>
         <a
