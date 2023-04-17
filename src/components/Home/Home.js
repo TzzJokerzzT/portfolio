@@ -18,7 +18,7 @@ const Home = () => {
         </div>
         <div class="col-5">
           <img
-            src="https://i.imgur.com/y7pMxiu.png"
+            src="https://i.imgur.com/vLU23uR.jpg"
             alt="Profile pic"
             className="img-fluid profile-picture"
           />
