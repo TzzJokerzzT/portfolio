@@ -52,6 +52,7 @@ const Projects = () => {
                 Software para la recolección de información personal en el
                 sector salud.
               </li>
+              <li>Sistema de presentación de tarjetas para eventos.</li>
             </ul>
           </div>
         </div>
