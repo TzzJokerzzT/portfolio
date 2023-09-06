@@ -2,13 +2,6 @@
   position: fixed;
   bottom: 1rem;
   right: 1rem;
-}
-
-.top-button img {
-  width: 2rem;
-}
-
-.top-button {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -24,4 +17,7 @@
 .top-button:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+.top-button img {
+  width: 2rem;
 }

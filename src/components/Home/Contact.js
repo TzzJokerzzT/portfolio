@@ -6,8 +6,8 @@ const Contact = () => {
     window.open(url, "_blank");
   };
   return (
-    <div id="contact">
-      <h1 className="contact-header">Contact</h1>
+    <div id="contact" className="ms-5">
+      <h1 className="contact-header ms-5">Contact</h1>
       <div className="container text-center">
         <div className="row align-items-start">
           <div className="col-12 email-styles">

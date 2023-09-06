@@ -17,6 +17,10 @@
   font-size: 1.7rem;
 }
 
+.collaborative-style li {
+  font-size: 1.5rem;
+}
+
 .tecno-styles li {
   list-style: none;
   display: inline-block;

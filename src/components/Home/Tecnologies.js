@@ -2,8 +2,8 @@ import "./TecnologiesMain.css";
 
 const Technologies = () => {
   return (
-    <div id="tecnologies">
-      <h1 className="tecnologies-header">Technologies</h1>
+    <div id="tecnologies" className="ms-5">
+      <h1 className="tecnologies-header ms-5">Technologies</h1>
       <div className="container">
         <div className="row">
           <div className="col-12 d-flex justify-content-start">
